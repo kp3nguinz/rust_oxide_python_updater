@@ -1,3 +1,6 @@
+# Find our latest builds on our primary code repo:
+https://code.penguinzmedia.group
+
 # rust_oxide_python_updater
 This is an install and maintain framework for rust servers written in python. It automatically:
 * Installs SteamCMD
